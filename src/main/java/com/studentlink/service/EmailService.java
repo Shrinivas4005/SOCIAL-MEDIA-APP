@@ -31,7 +31,7 @@ public class EmailService {
                     .property(Emailv31.MESSAGES, new JSONArray()
                             .put(new JSONObject()
                                     .put(Emailv31.Message.FROM, new JSONObject()
-                                            .put("Email", "your_verified_mail@domain.com")
+                                            .put("Email", "tanay.work11@gmail.com")
                                             .put("Name", "StudentLink"))
                                     .put(Emailv31.Message.TO, new JSONArray()
                                             .put(new JSONObject()
